@@ -12,3 +12,5 @@ __pycache__/
 *.pyzwz
 *.pyzwzw
 .gitignore
+config.bat
+node_modules
